@@ -1,1 +1,2 @@
-hey lol, this is my hello world file for the odin project. I made a change to check if the git is working as intended or not.
+hey lol, this is my hello world file for the odin project. I made a change to check if the git is working as intended or not. 
+edit 2 - just made changes to test VS code configuration. 
